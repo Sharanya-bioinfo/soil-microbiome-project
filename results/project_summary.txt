@@ -1,0 +1,31 @@
+
+SOIL MICROBIOME ANALYSIS: PROJECT SUMMARY
+
+Number of soil samples: 24
+Number of taxonomic categories: 122
+
+Land-use groups:
+Landuse
+Unlogged        6
+Once-logged     6
+Twice-logged    6
+Oil palm        6
+
+Research question:
+How does soil taxonomic composition vary across the land-use groups?
+
+Analyses done:
+1. Sample ID matching and data quality checks.
+2. Sample-level relative abundance calculations.
+3. Top 10 taxonomic category comparison.
+4. Soil pH, nitrogen, carbon and phosphorus summaries.
+5. Soil chemistry graphs.
+6. Soil pH versus detected-category scatter plot.
+7. Exploratory Pearson correlation.
+
+Pearson correlation between soil pH and detected categories:
+-0.1022
+
+Relative abundance represents proportions of recorded counts,
+not absolute numbers of microorganisms. Observational patterns
+do not establish causation.

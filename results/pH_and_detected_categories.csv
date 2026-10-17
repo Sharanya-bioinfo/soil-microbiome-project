@@ -1,0 +1,25 @@
+Sample_ID,Landuse,pH,Detected_categories
+T13,Unlogged,3.96,102
+T14,Unlogged,4.52,99
+T17,Unlogged,4.28,93
+T41,Unlogged,4.16,93
+T54,Unlogged,4.88,94
+T55,Unlogged,3.67,90
+T12,Once-logged,3.8,94
+T38,Once-logged,5.9,97
+T46,Once-logged,4.34,96
+T63,Once-logged,5.75,94
+T64,Once-logged,4.47,98
+T20,Once-logged,4.32,100
+T28,Twice-logged,5.22,95
+T52,Twice-logged,5.21,101
+T60,Twice-logged,4.46,96
+TDB,Twice-logged,3.76,93
+T34,Twice-logged,5.96,94
+T35,Twice-logged,6.05,92
+T73,Oil palm,4.92,104
+T74,Oil palm,5.68,98
+T75,Oil palm,3.76,107
+T76,Oil palm,5.03,98
+T71,Oil palm,4.68,101
+T72,Oil palm,4.66,104

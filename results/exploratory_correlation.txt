@@ -1,0 +1,4 @@
+Exploratory Pearson correlation
+Variables: soil pH and detected taxonomic categories
+Pearson r: -0.1022
+This correlation is exploratory and does not establish causation.

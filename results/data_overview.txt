@@ -1,0 +1,7 @@
+SOIL DATA
+Shape: (24, 6)
+Columns: ['Sample_ID', 'pH', 'Total nitrogen (%)', 'Total carbon (%)', 'Available phosphorus (mg/kg)', 'Landuse']
+
+TAXONOMIC DATA
+Shape: (24, 123)
+Number of taxonomic categories: 122

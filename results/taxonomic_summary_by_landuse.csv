@@ -1,0 +1,489 @@
+Landuse,Taxonomic_category,Mean_relative_abundance_percent
+Oil palm,unclassified (derived from Microsporidia),0.0009906778237581742
+Once-logged,unclassified (derived from Microsporidia),0.0008213507902899861
+Twice-logged,unclassified (derived from Microsporidia),0.0005808984516777008
+Unlogged,unclassified (derived from Microsporidia),0.0008604878786523914
+Oil palm,Bryopsida,0.0005704365111573966
+Once-logged,Bryopsida,0.00014381697994664332
+Twice-logged,Bryopsida,0.00022572970874509165
+Unlogged,Bryopsida,0.00011805349206528997
+Oil palm,Chlamydiia,0.16184967763366112
+Once-logged,Chlamydiia,0.1307923233973867
+Twice-logged,Chlamydiia,0.13713583009805663
+Unlogged,Chlamydiia,0.12285826486391731
+Oil palm,Agaricomycetes,0.00033874035667892194
+Once-logged,Agaricomycetes,0.0006211795443590336
+Twice-logged,Agaricomycetes,0.00034194040012707074
+Unlogged,Agaricomycetes,0.0005084821422446175
+Oil palm,unassigned,3.23018144536822
+Once-logged,unassigned,2.92746957404319
+Twice-logged,unassigned,3.089187809295387
+Unlogged,unassigned,2.661924843900988
+Oil palm,Thermoplasmata,0.04122528305539466
+Once-logged,Thermoplasmata,0.028998385915484398
+Twice-logged,Thermoplasmata,0.026719442752852842
+Unlogged,Thermoplasmata,0.035788817457872206
+Oil palm,Chrysophyceae,0.0002493858034407402
+Once-logged,Chrysophyceae,4.712019149064694e-05
+Twice-logged,Chrysophyceae,5.295353916634222e-05
+Unlogged,Chrysophyceae,8.970853945112681e-05
+Oil palm,Sordariomycetes,0.18495420166425633
+Once-logged,Sordariomycetes,0.10437163335216505
+Twice-logged,Sordariomycetes,0.09395080310675473
+Unlogged,Sordariomycetes,0.10898886492972763
+Oil palm,Bacteroidia,0.26591580863409864
+Once-logged,Bacteroidia,0.2443128347020307
+Twice-logged,Bacteroidia,0.2561330354202577
+Unlogged,Bacteroidia,0.21438561246748303
+Oil palm,Thermococci,0.08348130814693998
+Once-logged,Thermococci,0.06784480045912462
+Twice-logged,Thermococci,0.07651461906857798
+Unlogged,Thermococci,0.0646085716698754
+Oil palm,Trematoda,1.015040257511653e-05
+Once-logged,Trematoda,0.0
+Twice-logged,Trematoda,2.1140231049045514e-05
+Unlogged,Trematoda,2.0593903463194368e-05
+Oil palm,Schizosaccharomycetes,0.01861666232270077
+Once-logged,Schizosaccharomycetes,0.015309468593940964
+Twice-logged,Schizosaccharomycetes,0.013321065810173935
+Unlogged,Schizosaccharomycetes,0.014464901654640311
+Oil palm,Coniferopsida,0.0005763694971287352
+Once-logged,Coniferopsida,0.0003498687861187822
+Twice-logged,Coniferopsida,0.00024354804564421322
+Unlogged,Coniferopsida,0.0003271563021366289
+Oil palm,Bivalvia,9.586852666947368e-06
+Once-logged,Bivalvia,0.0
+Twice-logged,Bivalvia,0.0
+Unlogged,Bivalvia,0.0
+Oil palm,Leotiomycetes,2.5637461148538276e-05
+Once-logged,Leotiomycetes,0.0
+Twice-logged,Leotiomycetes,0.0
+Unlogged,Leotiomycetes,0.0
+Oil palm,Asteroidea,3.4164695258293334e-05
+Once-logged,Asteroidea,0.0
+Twice-logged,Asteroidea,2.0160317730538094e-05
+Unlogged,Asteroidea,0.0
+Oil palm,unclassified (derived from Phaeophyceae),0.0002835312413517482
+Once-logged,unclassified (derived from Phaeophyceae),8.568032515015456e-05
+Twice-logged,unclassified (derived from Phaeophyceae),0.00012291261916416837
+Unlogged,unclassified (derived from Phaeophyceae),0.0001942309315242347
+Oil palm,Epsilonproteobacteria,0.1579856775405996
+Once-logged,Epsilonproteobacteria,0.14657854480516372
+Twice-logged,Epsilonproteobacteria,0.1567814406792057
+Unlogged,Epsilonproteobacteria,0.1386195780481782
+Oil palm,Mesostigmatophyceae,0.00037329982744461375
+Once-logged,Mesostigmatophyceae,0.00023154538398590955
+Twice-logged,Mesostigmatophyceae,0.00029433881642095184
+Unlogged,Mesostigmatophyceae,0.00021125836451442586
+Oil palm,Gastropoda,2.669707970573059e-05
+Once-logged,Gastropoda,0.0
+Twice-logged,Gastropoda,0.0
+Unlogged,Gastropoda,2.338145959577895e-05
+Oil palm,Clostridia,2.321111539964537
+Once-logged,Clostridia,2.0751473520262045
+Twice-logged,Clostridia,2.3881474827486557
+Unlogged,Clostridia,1.938472475873868
+Oil palm,Eurotiomycetes,0.0020541541131536526
+Once-logged,Eurotiomycetes,0.0009481536486641084
+Twice-logged,Eurotiomycetes,0.0003707365989860511
+Unlogged,Eurotiomycetes,0.0006610757226855943
+Oil palm,Solibacteres,4.0170996533138705
+Once-logged,Solibacteres,5.6237575965492494
+Twice-logged,Solibacteres,5.055084567190718
+Unlogged,Solibacteres,6.884864394650736
+Oil palm,Gammaproteobacteria,6.8443482022461195
+Once-logged,Gammaproteobacteria,6.3685232414209985
+Twice-logged,Gammaproteobacteria,6.657913156688043
+Unlogged,Gammaproteobacteria,6.304249487172087
+Oil palm,Anthozoa,6.21023926994218e-05
+Once-logged,Anthozoa,8.858876480862618e-05
+Twice-logged,Anthozoa,0.00010047510874950673
+Unlogged,Anthozoa,2.9162833854027398e-05
+Oil palm,Oligohymenophorea,0.0005431035435376109
+Once-logged,Oligohymenophorea,0.0002611373382490573
+Twice-logged,Oligohymenophorea,0.00013413135576247355
+Unlogged,Oligohymenophorea,0.00024776597784409275
+Oil palm,Methanococci,0.03947152717911431
+Once-logged,Methanococci,0.03575728713086571
+Twice-logged,Methanococci,0.039042768698706896
+Unlogged,Methanococci,0.03485532461974664
+Oil palm,Enteropneusta,0.0
+Once-logged,Enteropneusta,3.647352113549366e-05
+Twice-logged,Enteropneusta,2.0160317730538094e-05
+Unlogged,Enteropneusta,9.48047562408549e-06
+Oil palm,Ophiuroidea,0.0
+Once-logged,Ophiuroidea,9.118380283873415e-06
+Twice-logged,Ophiuroidea,0.0
+Unlogged,Ophiuroidea,1.0296951731597184e-05
+Oil palm,Fusobacteriia,0.059962452713300286
+Once-logged,Fusobacteriia,0.05287224004503754
+Twice-logged,Fusobacteriia,0.05768485280419455
+Unlogged,Fusobacteriia,0.0492314270221977
+Oil palm,Monoblepharidomycetes,0.00017553103586879647
+Once-logged,Monoblepharidomycetes,8.637790828164186e-05
+Twice-logged,Monoblepharidomycetes,0.000131880367676426
+Unlogged,Monoblepharidomycetes,7.731991644060756e-05
+Oil palm,Malacostraca,2.5581702329265164e-05
+Once-logged,Malacostraca,2.7904179172886725e-05
+Twice-logged,Malacostraca,1.0998726127539909e-05
+Unlogged,Malacostraca,1.1691115126619454e-05
+Oil palm,unclassified (derived from Acidobacteria),2.9374035843413377
+Once-logged,unclassified (derived from Acidobacteria),4.255310303247145
+Twice-logged,unclassified (derived from Acidobacteria),3.516628186779107
+Unlogged,unclassified (derived from Acidobacteria),5.6534629629996465
+Oil palm,Sphingobacteriia,0.7895043522148538
+Once-logged,Sphingobacteriia,0.7019598251283169
+Twice-logged,Sphingobacteriia,0.7323389118417807
+Unlogged,Sphingobacteriia,0.5330903929291295
+Oil palm,Saccharomycetes,0.017358945762859936
+Once-logged,Saccharomycetes,0.013981388944911103
+Twice-logged,Saccharomycetes,0.013825180248507712
+Unlogged,Saccharomycetes,0.013439806902493847
+Oil palm,unclassified (derived from Viruses),0.03105187489395105
+Once-logged,unclassified (derived from Viruses),0.020262763825898186
+Twice-logged,unclassified (derived from Viruses),0.018402060905597914
+Unlogged,unclassified (derived from Viruses),0.02162521867282417
+Oil palm,Aves,0.003180014952004153
+Once-logged,Aves,0.0033642499364290508
+Twice-logged,Aves,0.002826554397359552
+Unlogged,Aves,0.0034617803448119093
+Oil palm,Marchantiopsida,0.0006260851570023134
+Once-logged,Marchantiopsida,0.00024136705398425623
+Twice-logged,Marchantiopsida,0.00032600778794028215
+Unlogged,Marchantiopsida,0.0003260344596886633
+Oil palm,Arachnida,4.349481191236683e-05
+Once-logged,Arachnida,9.368474857261916e-06
+Twice-logged,Arachnida,9.161591602998185e-06
+Unlogged,Arachnida,2.9162833854027398e-05
+Oil palm,Anthocerotopsida,0.00025611727254900245
+Once-logged,Anthocerotopsida,0.000111219737398052
+Twice-logged,Anthocerotopsida,7.470259863038961e-05
+Unlogged,Anthocerotopsida,2.0593903463194368e-05
+Oil palm,Tremellomycetes,0.0007106466212818529
+Once-logged,Tremellomycetes,0.0005831799317290728
+Twice-logged,Tremellomycetes,0.0003664062312998632
+Unlogged,Tremellomycetes,0.0006682539504723183
+Oil palm,Betaproteobacteria,8.256817220014062
+Once-logged,Betaproteobacteria,8.869704935477866
+Twice-logged,Betaproteobacteria,8.71419427345347
+Unlogged,Betaproteobacteria,8.748960244291451
+Oil palm,unclassified (derived from Nanoarchaeota),0.0013903997302398717
+Once-logged,unclassified (derived from Nanoarchaeota),0.000745001162993374
+Twice-logged,unclassified (derived from Nanoarchaeota),0.001198896719985259
+Unlogged,unclassified (derived from Nanoarchaeota),0.0010423801468707969
+Oil palm,Flavobacteriia,0.486857443259097
+Once-logged,Flavobacteriia,0.4602306538699432
+Twice-logged,Flavobacteriia,0.489363547180466
+Unlogged,Flavobacteriia,0.3741792907307698
+Oil palm,unclassified (derived from Bacteroidetes),0.43121825671750796
+Once-logged,unclassified (derived from Bacteroidetes),0.43158598873480064
+Twice-logged,unclassified (derived from Bacteroidetes),0.4534509119683882
+Unlogged,unclassified (derived from Bacteroidetes),0.39573190769554284
+Oil palm,Maxillopoda,8.959359627978718e-06
+Once-logged,Maxillopoda,0.0
+Twice-logged,Maxillopoda,0.0
+Unlogged,Maxillopoda,9.48047562408549e-06
+Oil palm,Chilopoda,0.0
+Once-logged,Chilopoda,2.1798046764221642e-05
+Twice-logged,Chilopoda,1.021591124089405e-05
+Unlogged,Chilopoda,0.0
+Oil palm,Methanomicrobia,0.39383393147444573
+Once-logged,Methanomicrobia,0.3816478827027224
+Twice-logged,Methanomicrobia,0.41411393845402733
+Unlogged,Methanomicrobia,0.3740333870201516
+Oil palm,Cytophagia,0.8657473578121593
+Once-logged,Cytophagia,0.8168303824812847
+Twice-logged,Cytophagia,0.836188989769393
+Unlogged,Cytophagia,0.6966569551648939
+Oil palm,Planctomycetia,1.9262585805532701
+Once-logged,Planctomycetia,2.211894853265814
+Twice-logged,Planctomycetia,2.318749215155225
+Unlogged,Planctomycetia,1.837977230900589
+Oil palm,Blastocladiomycetes,0.0002690705895606011
+Once-logged,Blastocladiomycetes,0.00021987965147628828
+Twice-logged,Blastocladiomycetes,0.00013399322418100224
+Unlogged,Blastocladiomycetes,0.0001577279494751598
+Oil palm,Coccidia,1.6482733999814575e-05
+Once-logged,Coccidia,9.745203849199598e-06
+Twice-logged,Coccidia,0.0
+Unlogged,Coccidia,1.1691115126619454e-05
+Oil palm,Deinococci,0.7282347460915276
+Once-logged,Deinococci,0.6679189868469658
+Twice-logged,Deinococci,0.7116756025299967
+Unlogged,Deinococci,0.6071128297320482
+Oil palm,Cryptophyta,0.0012213497930014929
+Once-logged,Cryptophyta,0.0011434037459239063
+Twice-logged,Cryptophyta,0.001009309979953421
+Unlogged,Cryptophyta,0.001175862023350858
+Oil palm,Amphibia,1.7918719255957436e-05
+Once-logged,Amphibia,1.7005155790775904e-05
+Twice-logged,Amphibia,0.0
+Unlogged,Amphibia,9.48047562408549e-06
+Oil palm,Verrucomicrobiae,0.12214711038386067
+Once-logged,Verrucomicrobiae,0.12843843266982927
+Twice-logged,Verrucomicrobiae,0.13282658569581776
+Unlogged,Verrucomicrobiae,0.12384680584773944
+Oil palm,Ascidiacea,0.003927159098851359
+Once-logged,Ascidiacea,0.0034520181494061865
+Twice-logged,Ascidiacea,0.003330169419249367
+Unlogged,Ascidiacea,0.003206490371785648
+Oil palm,Prasinophyceae,0.00028778993845464423
+Once-logged,Prasinophyceae,0.00022605562764097366
+Twice-logged,Prasinophyceae,0.0002300607089760647
+Unlogged,Prasinophyceae,9.468044230067697e-05
+Oil palm,Coleochaetophyceae,0.0005314612526142914
+Once-logged,Coleochaetophyceae,0.00029775897736148435
+Twice-logged,Coleochaetophyceae,0.00017744211062257565
+Unlogged,Coleochaetophyceae,0.00035638736515284985
+Oil palm,unclassified (derived from Proteobacteria),0.12635909317478874
+Once-logged,unclassified (derived from Proteobacteria),0.14601573686721
+Twice-logged,unclassified (derived from Proteobacteria),0.14949265518500934
+Unlogged,unclassified (derived from Proteobacteria),0.14531779514185975
+Oil palm,Bangiophyceae,0.0026366639126625528
+Once-logged,Bangiophyceae,0.0021414301328864693
+Twice-logged,Bangiophyceae,0.001964073581103594
+Unlogged,Bangiophyceae,0.0020998404203835673
+Oil palm,unclassified (derived from other sequences),0.0012815304218046634
+Once-logged,unclassified (derived from other sequences),0.0011339031968115008
+Twice-logged,unclassified (derived from other sequences),0.0011191006144414789
+Unlogged,unclassified (derived from other sequences),0.0013258755705681349
+Oil palm,Mammalia,0.03750716675193868
+Once-logged,Mammalia,0.03627334434500756
+Twice-logged,Mammalia,0.0359214961150223
+Unlogged,Mammalia,0.03615268315520162
+Oil palm,Insecta,0.02595038668376254
+Once-logged,Insecta,0.025074959993777016
+Twice-logged,Insecta,0.022959734522165945
+Unlogged,Insecta,0.025754929253245285
+Oil palm,Methanopyri,0.017199428080816852
+Once-logged,Methanopyri,0.014178206914993366
+Twice-logged,Methanopyri,0.016125203793007168
+Unlogged,Methanopyri,0.014676908241694472
+Oil palm,unclassified (derived from Streptophyta),0.06213232995994231
+Once-logged,unclassified (derived from Streptophyta),0.06111251356475798
+Twice-logged,unclassified (derived from Streptophyta),0.062215556830437134
+Unlogged,unclassified (derived from Streptophyta),0.0570611757370226
+Oil palm,unclassified (derived from Annelida),1.015040257511653e-05
+Once-logged,unclassified (derived from Annelida),2.464183672428989e-05
+Twice-logged,unclassified (derived from Annelida),5.4621599040757324e-05
+Unlogged,unclassified (derived from Annelida),1.9777427355682675e-05
+Oil palm,Branchiopoda,2.030080515023306e-05
+Once-logged,Branchiopoda,0.0
+Twice-logged,Branchiopoda,9.161591602998185e-06
+Unlogged,Branchiopoda,1.0296951731597184e-05
+Oil palm,unclassified (derived from Korarchaeota),0.016968157968410724
+Once-logged,unclassified (derived from Korarchaeota),0.016645379453272977
+Twice-logged,unclassified (derived from Korarchaeota),0.018034774036844146
+Unlogged,unclassified (derived from Korarchaeota),0.016213006021524437
+Oil palm,Chytridiomycetes,0.00014529746151747868
+Once-logged,Chytridiomycetes,4.925301521358302e-05
+Twice-logged,Chytridiomycetes,3.2352031513466856e-05
+Unlogged,Chytridiomycetes,2.9257902979768165e-05
+Oil palm,Chlorobia,0.5483147347346607
+Once-logged,Chlorobia,0.5507509186843567
+Twice-logged,Chlorobia,0.5915384349118806
+Unlogged,Chlorobia,0.5118113217019685
+Oil palm,Liliopsida,0.028268055313224762
+Once-logged,Liliopsida,0.01303635908712992
+Twice-logged,Liliopsida,0.025654948633321076
+Unlogged,Liliopsida,0.010286991159099526
+Oil palm,Actinopterygii,0.02898243278425124
+Once-logged,Actinopterygii,0.02694616008090915
+Twice-logged,Actinopterygii,0.026818633670568377
+Unlogged,Actinopterygii,0.025934019565975866
+Oil palm,Chlorophyceae,0.0005126019788960489
+Once-logged,Chlorophyceae,0.0001328177917701534
+Twice-logged,Chlorophyceae,0.00017502919913582604
+Unlogged,Chlorophyceae,9.492371888287047e-05
+Oil palm,Thermotogae (class),0.21720990790244063
+Once-logged,Thermotogae (class),0.1922749152738107
+Twice-logged,Thermotogae (class),0.2123769742199795
+Unlogged,Thermotogae (class),0.17387402995919762
+Oil palm,Scaphopoda,2.6069586666761944e-05
+Once-logged,Scaphopoda,1.0899023382110821e-05
+Twice-logged,Scaphopoda,0.0
+Unlogged,Scaphopoda,9.841179114970952e-06
+Oil palm,Aquificae (class),0.15961019041810806
+Once-logged,Aquificae (class),0.15296397751928179
+Twice-logged,Aquificae (class),0.1634470065498086
+Unlogged,Aquificae (class),0.13847847535619937
+Oil palm,Pedinophyceae,1.9173705333894736e-05
+Once-logged,Pedinophyceae,0.0
+Twice-logged,Pedinophyceae,0.0
+Unlogged,Pedinophyceae,3.3678411327376136e-05
+Oil palm,Synergistia,0.07392448143215381
+Once-logged,Synergistia,0.0684558122741483
+Twice-logged,Synergistia,0.07670555407066763
+Unlogged,Synergistia,0.06594036884467615
+Oil palm,Methanobacteria,0.042472388136211736
+Once-logged,Methanobacteria,0.03865614090437124
+Twice-logged,Methanobacteria,0.04182743655247595
+Unlogged,Methanobacteria,0.03783475670108603
+Oil palm,Thermoprotei,0.18002064403390183
+Once-logged,Thermoprotei,0.16100299979241472
+Twice-logged,Thermoprotei,0.16713511353970012
+Unlogged,Thermoprotei,0.16655770005424492
+Oil palm,Chromadorea,0.01895263981479316
+Once-logged,Chromadorea,0.017823649852594523
+Twice-logged,Chromadorea,0.016978566659603112
+Unlogged,Chromadorea,0.016474508994413464
+Oil palm,unclassified (derived from Cyanobacteria),1.8304663336260358
+Once-logged,unclassified (derived from Cyanobacteria),1.6803818760271036
+Twice-logged,unclassified (derived from Cyanobacteria),1.7147257455749567
+Unlogged,unclassified (derived from Cyanobacteria),1.5878462230801496
+Oil palm,Synurophyceae,0.00024612795960692735
+Once-logged,Synurophyceae,6.540454822610447e-05
+Twice-logged,Synurophyceae,9.500752696514694e-05
+Unlogged,Synurophyceae,0.00013002236291135617
+Oil palm,Florideophyceae,0.00022654871905883778
+Once-logged,Florideophyceae,0.00018413081792157055
+Twice-logged,Florideophyceae,0.00012947935111707386
+Unlogged,Florideophyceae,0.0001461369272512597
+Oil palm,unclassified (derived from Euglenida),0.00012152507610912176
+Once-logged,unclassified (derived from Euglenida),2.7855329998397247e-05
+Twice-logged,unclassified (derived from Euglenida),0.0001313335611893897
+Unlogged,unclassified (derived from Euglenida),4.809825739249363e-05
+Oil palm,Polychaeta,0.0
+Once-logged,Polychaeta,2.074656084260912e-05
+Twice-logged,Polychaeta,1.0784010504488952e-05
+Unlogged,Polychaeta,0.0
+Oil palm,Ellipura,0.0
+Once-logged,Ellipura,9.745203849199598e-06
+Twice-logged,Ellipura,0.0
+Unlogged,Ellipura,1.0296951731597184e-05
+Oil palm,Bacilli,3.254837769351475
+Once-logged,Bacilli,1.9773432444216823
+Twice-logged,Bacilli,2.467461944363064
+Unlogged,Bacilli,2.208457432873472
+Oil palm,Dehalococcoidetes,0.1083814123804585
+Once-logged,Dehalococcoidetes,0.08904757737854252
+Twice-logged,Dehalococcoidetes,0.10248658551972477
+Unlogged,Dehalococcoidetes,0.07996017924757849
+Oil palm,Trebouxiophyceae,0.0010825611834245341
+Once-logged,Trebouxiophyceae,0.0004859192764496525
+Twice-logged,Trebouxiophyceae,0.0006687911202372175
+Unlogged,Trebouxiophyceae,0.00041927611766583595
+Oil palm,Mollicutes,0.02402699395101256
+Once-logged,Mollicutes,0.01804321804634462
+Twice-logged,Mollicutes,0.02020421166088312
+Unlogged,Mollicutes,0.015975152925167165
+Oil palm,Mediophyceae,0.003322030736485107
+Once-logged,Mediophyceae,0.0002414835280293544
+Twice-logged,Mediophyceae,0.0005866132996977313
+Unlogged,Mediophyceae,0.00030147776722322226
+Oil palm,Gloeobacteria,0.4156195005512724
+Once-logged,Gloeobacteria,0.4584062318990186
+Twice-logged,Gloeobacteria,0.45428079454310205
+Unlogged,Gloeobacteria,0.4489037811048114
+Oil palm,Negativicutes,0.02477964671742192
+Once-logged,Negativicutes,0.02134065423050179
+Twice-logged,Negativicutes,0.02469749727432159
+Unlogged,Negativicutes,0.019778941559516483
+Oil palm,Dictyoglomia,0.0910099014060252
+Once-logged,Dictyoglomia,0.08297134727174348
+Twice-logged,Dictyoglomia,0.09230912073605173
+Unlogged,Dictyoglomia,0.07870118434140894
+Oil palm,Opitutae,0.7871874541165007
+Once-logged,Opitutae,0.7363057107325387
+Twice-logged,Opitutae,0.7132078526032649
+Unlogged,Opitutae,0.7627884735678406
+Oil palm,Archaeoglobi,0.042129638153118106
+Once-logged,Archaeoglobi,0.03995205870735209
+Twice-logged,Archaeoglobi,0.04155723682129608
+Unlogged,Archaeoglobi,0.037179136696693996
+Oil palm,Spirochaetia,0.13334996625637008
+Once-logged,Spirochaetia,0.1265594069798459
+Twice-logged,Spirochaetia,0.13574898292299042
+Unlogged,Spirochaetia,0.1145752801940917
+Oil palm,Chondrichthyes,2.5442093627793294e-05
+Once-logged,Chondrichthyes,0.0
+Twice-logged,Chondrichthyes,1.0998726127539909e-05
+Unlogged,Chondrichthyes,0.0
+Oil palm,Actinobacteria (class),25.718704440345224
+Once-logged,Actinobacteria (class),18.81955449476189
+Twice-logged,Actinobacteria (class),17.81611935317472
+Unlogged,Actinobacteria (class),19.02328408754769
+Oil palm,Thermomicrobia (class),0.6971043741873547
+Once-logged,Thermomicrobia (class),0.6264448412157807
+Twice-logged,Thermomicrobia (class),0.6777490937175906
+Unlogged,Thermomicrobia (class),0.5549500470030361
+Oil palm,Erysipelotrichi,0.013824326686106865
+Once-logged,Erysipelotrichi,0.012608757369726803
+Twice-logged,Erysipelotrichi,0.014051261058586709
+Unlogged,Erysipelotrichi,0.01157416369856372
+Oil palm,Deltaproteobacteria,8.282861084848312
+Once-logged,Deltaproteobacteria,8.654235582309443
+Twice-logged,Deltaproteobacteria,9.136587570010365
+Unlogged,Deltaproteobacteria,7.660358152133679
+Oil palm,Polyplacophora,2.782417952206892e-05
+Once-logged,Polyplacophora,0.0
+Twice-logged,Polyplacophora,0.0
+Unlogged,Polyplacophora,0.0
+Oil palm,Elusimicrobia (class),0.029249129227675655
+Once-logged,Elusimicrobia (class),0.024529484066480336
+Twice-logged,Elusimicrobia (class),0.027420479693337257
+Unlogged,Elusimicrobia (class),0.02480864696141485
+Oil palm,Chloroflexi (class),1.4494821474462347
+Once-logged,Chloroflexi (class),1.318332922977592
+Twice-logged,Chloroflexi (class),1.3988013953025902
+Unlogged,Chloroflexi (class),1.108523970010876
+Oil palm,Polypodiopsida,5.258559593029104e-05
+Once-logged,Polypodiopsida,9.118380283873415e-06
+Twice-logged,Polypodiopsida,7.318826321626876e-05
+Unlogged,Polypodiopsida,1.3084507864181764e-05
+Oil palm,unclassified (derived from Thaumarchaeota),0.21886467847879496
+Once-logged,unclassified (derived from Thaumarchaeota),0.06490001023924509
+Twice-logged,unclassified (derived from Thaumarchaeota),0.09593265952664091
+Unlogged,unclassified (derived from Thaumarchaeota),0.10370456369586523
+Oil palm,Rhynchonellata,1.5046748743671715e-05
+Once-logged,Rhynchonellata,0.0
+Twice-logged,Rhynchonellata,1.832318320599637e-05
+Unlogged,Rhynchonellata,0.0
+Oil palm,unclassified (derived from Eukaryota),0.0022431219925088982
+Once-logged,unclassified (derived from Eukaryota),0.00123527134446235
+Twice-logged,unclassified (derived from Eukaryota),0.0012489976604944757
+Unlogged,unclassified (derived from Eukaryota),0.0012758679894005259
+Oil palm,unclassified (derived from Verrucomicrobia),0.1796714815845608
+Once-logged,unclassified (derived from Verrucomicrobia),0.18969071490755243
+Twice-logged,unclassified (derived from Verrucomicrobia),0.19083944301400801
+Unlogged,unclassified (derived from Verrucomicrobia),0.19352037991477733
+Oil palm,Heterolobosea,0.00011795577219683381
+Once-logged,Heterolobosea,8.657451841822114e-05
+Twice-logged,Heterolobosea,0.00015452032551448915
+Unlogged,Heterolobosea,7.747729880408986e-05
+Oil palm,unclassified (derived from Bacteria),0.3622715331710135
+Once-logged,unclassified (derived from Bacteria),0.30693406142059815
+Twice-logged,unclassified (derived from Bacteria),0.3203013329696118
+Unlogged,unclassified (derived from Bacteria),0.2748925458133438
+Oil palm,Aconoidasida,0.005629268752623136
+Once-logged,Aconoidasida,0.005262732951035979
+Twice-logged,Aconoidasida,0.005269632077110113
+Unlogged,Aconoidasida,0.005355387484105308
+Oil palm,Deferribacteres (class),0.04048959421616483
+Once-logged,Deferribacteres (class),0.038309888931554646
+Twice-logged,Deferribacteres (class),0.041610926805027156
+Unlogged,Deferribacteres (class),0.03551079722788694
+Oil palm,Halobacteria,0.1452496630512472
+Once-logged,Halobacteria,0.13320592652316007
+Twice-logged,Halobacteria,0.14364738601440416
+Unlogged,Halobacteria,0.11895988899227129
+Oil palm,Charophyceae,0.00024400636618442006
+Once-logged,Charophyceae,0.00014246316802161185
+Twice-logged,Charophyceae,0.00014951643509172354
+Unlogged,Charophyceae,0.00020737129510532346
+Oil palm,unclassified (derived from Chordata),8.010296155706467e-05
+Once-logged,unclassified (derived from Chordata),3.413694600010099e-05
+Twice-logged,unclassified (derived from Chordata),9.161591602998185e-06
+Unlogged,unclassified (derived from Chordata),2.117159075070494e-05
+Oil palm,Echinoidea,0.0
+Once-logged,Echinoidea,7.636680933513986e-06
+Twice-logged,Echinoidea,2.039529536493878e-05
+Unlogged,Echinoidea,0.0
+Oil palm,Glaucocystophyceae,0.0008972008902496314
+Once-logged,Glaucocystophyceae,0.0003932963716635933
+Twice-logged,Glaucocystophyceae,0.0008917862808549582
+Unlogged,Glaucocystophyceae,0.0006817090281404821
+Oil palm,Alphaproteobacteria,20.116110812083775
+Once-logged,Alphaproteobacteria,26.252289408117463
+Twice-logged,Alphaproteobacteria,26.318464966448676
+Unlogged,Alphaproteobacteria,26.11366768327861
